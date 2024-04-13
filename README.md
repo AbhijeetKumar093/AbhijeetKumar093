@@ -44,7 +44,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Thanks for your visiting' /></a>
+<a target='_blank'><img height='64' style='border:0px;height:64px;'  border='0' alt='Thanks for your visiting' /></a>
 </div>
 
 <br/>
