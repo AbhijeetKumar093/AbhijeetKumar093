@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhijeetkumar093.abhijeetkumar093" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhijeet+Kumar!;" />
+</h1>
+
+<h3 align="center">A passionate web developer from India</h3>
+
+<br/>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw0lEU7qnnkGk5FJx1kYsfcG&ust=1713112393004000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDPxqnPv4UDFQAAAAAdAAAAABBX" >
 
